@@ -1,0 +1,16 @@
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2020-12-07 14:33:16,656    
+【线程编号】[9]    
+【执行时间】[4435]毫秒    
+【出错文件】D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\Log4net\Log4Builder.cs    
+【出错行号】113    
+【出错的类】日志信息： 属性[(null)]    
+【错误描述】控制器异常：    
+【错误详情】
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at AspNetCore.LoggerBuilder.Test.Controllers.WeatherForecastController.TestLog4netGet() in D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder.Test\Controllers\WeatherForecastController.cs:line 30

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "2s7lP5jV1JqQFduibcmR5gmKGFTBShpDuGbUbavHbBl0Jo+H2uIR0vFDmMo1emDEffrgoPQn/QH6rJ5jghBeOw==",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\vs_workspace\\Components\\CoreLog4net\\AspNetCore.LoggerBuilder\\AspNetCore.LoggerBuilder\\AspNetCore.LoggerBuilder.csproj",
+  "expectedPackageFiles": [
+    "D:\\wwwroot\\iis\\nuget\\Packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

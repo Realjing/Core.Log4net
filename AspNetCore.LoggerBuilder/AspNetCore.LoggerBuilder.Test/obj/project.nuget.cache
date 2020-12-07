@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRSd06KnJWgp1R6euLxKd6imAh4NM+eRxGXvACNMQuBDQfv4Ppi7jiD9YtQIzixNpakK+L9pP+Rd+6SKwI9Anw==",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\vs_workspace\\Components\\CoreLog4net\\AspNetCore.LoggerBuilder\\AspNetCore.LoggerBuilder.Test\\AspNetCore.LoggerBuilder.Test.csproj",
+  "expectedPackageFiles": [
+    "D:\\wwwroot\\iis\\nuget\\Packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\bin\Debug\netstandard2.1\AspNetCore.LoggerBuilder.deps.json
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\bin\Debug\netstandard2.1\AspNetCore.LoggerBuilder.dll
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\bin\Debug\netstandard2.1\AspNetCore.LoggerBuilder.pdb
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.AssemblyInfoInputs.cache
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.AssemblyInfo.cs
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.csproj.CoreCompileInputs.cache
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.dll
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.pdb
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.csprojAssemblyReference.cache
+D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\bin\Debug\netstandard2.1\AspNetCore.LoggerBuilder.deps.json
+D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\bin\Debug\netstandard2.1\AspNetCore.LoggerBuilder.dll
+D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\bin\Debug\netstandard2.1\AspNetCore.LoggerBuilder.pdb
+D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.AssemblyInfoInputs.cache
+D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.AssemblyInfo.cs
+D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.csproj.CoreCompileInputs.cache
+D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.dll
+D:\Developer\vs_workspace\Components\CoreLog4net\AspNetCore.LoggerBuilder\AspNetCore.LoggerBuilder\obj\Debug\netstandard2.1\AspNetCore.LoggerBuilder.pdb
